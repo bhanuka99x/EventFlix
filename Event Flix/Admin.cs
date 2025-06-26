@@ -23,7 +23,7 @@ namespace Event_Flix
 
         //Connect database
 
-        SqlConnection ConA = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\DELL\Desktop\2nd sem project\Event Flix\Event Flix\Event MS.mdf"";Integrated Security=True;Connect Timeout=30");
+        SqlConnection ConA = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\Bhanuka\Desktop\New folder (10)\2nd sem project\Event Flix\Event Flix\Event MS.mdf"";Integrated Security=True");
 
 
         private void ShowAdmin()
